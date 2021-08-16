@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <node name="問題類型">
-    <display>沒問題，這次要委託 Duke 的問題是什麼類型的？</display>
+<display>沒問題，這次要委託 Duke 的問題是什麼類型的？🕵</display>
     <node name="精進">
-        <display>請問你的異性伴侶有和其他人交往嗎？</display>
+        <display>請問你的異性伴侶有和其他人交往嗎?👩‍❤️‍👨</display>
         <node name="有">
             <ad>跟那個男的👊👊一決高下👊👊</ad>
-            <display>太好了，Duke 這邊剛好有幾招，你比較想要那一招？</display>
-            <node name="紳士決鬥">
+            <display>太好了，Duke 這邊剛好有幾招，你比較想要那一招?🧰</display>
+            <node name="紳士決鬥🐃">
                 <ad>追到有男朋友的女生</ad>
                 <display>來讓 Duke 教你一個觀念</display>
                 <display>在浪漫的世界裡，沒分有道德和不道德的</display>
